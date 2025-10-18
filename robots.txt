@@ -22,7 +22,7 @@ Allow: /*.css$
 Allow: /wp-content/uploads/
 
 # Sitemap
-Sitemap: https://www.votup.store/sitemap.xml
+Sitemap: https://www.votup.store/sitemap.php
 
 # Crawling delay (optional, adjust if site is slow)
 # Crawl-delay: 10
